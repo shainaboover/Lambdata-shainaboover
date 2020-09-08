@@ -3,8 +3,14 @@ Collection of data science utility functions
 
 ## Installation
 
-TODO
+```sh
+pip install _______
+```
 
 ## Usage 
 
-TODO
+```py
+from my_lambdata.my_mod import enlarge
+
+print(enlarge(8))
+```
