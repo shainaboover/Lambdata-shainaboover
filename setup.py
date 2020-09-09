@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setuptools.setup(
+setup(
     name="lambdata-shainaboover", # Replace with your own username
     version="0.0.1",
     author="Shaina Boover",
