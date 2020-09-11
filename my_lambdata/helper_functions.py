@@ -1,10 +1,10 @@
 
-import pandas as pd 
+import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-# State abbreviation -> Full Name and visa versa. 
-# FL -> Florida, etc. (Handle Washington DC and territories like Puerto Rico etc.)
+# State abbreviation -> Full Name and visa versa.
+# FL -> Florida, etc.
 
 def add_state_name_col(df):
     """
