@@ -10,4 +10,3 @@ When other people review my code, I get to see how a fresh set of eyes interpret
   improve this situation?
 
 Containers package code with all it's dependencies, meaning everything the code needs to run properly is already there for you. This ensures that different operating systems or environments will not affect the ability of the code to run, making it easy to share code with other people.
-  
